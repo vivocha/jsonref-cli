@@ -1,6 +1,6 @@
 {
   "name": "jsonref-cli",
-  "version": "0.0.0-semantically-released",
+  "version": "0.0.0-development",
   "description": "Command-line tool to query a JSON document using the JSON Pointer syntax",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
